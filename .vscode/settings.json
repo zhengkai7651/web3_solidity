@@ -1,0 +1,8 @@
+{
+    "marscode.codeCompletionPro": {
+        "enableCodeCompletionPro": false
+    },
+    "marscode.enableInlineCommand": false,
+    "solidity.compileUsingRemoteVersion": "v0.8.21+commit.d9974bed",
+    "Codegeex.RepoIndex": true
+}

@@ -1,0 +1,6 @@
+bin/
+migrations/
+build/
+node_modules/
+test/
+.vscode/
